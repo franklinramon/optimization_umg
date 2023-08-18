@@ -1,2 +1,2 @@
 # optimization_umg
-repository for claass
+repository for class
