@@ -1,2 +1,2 @@
 # optimization_umg
-repository for class
+in this repository you can find the code for the repository of the optimization class.
